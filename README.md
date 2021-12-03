@@ -70,8 +70,7 @@
 
 # Бонусная часть.
 
-Установить сайт на WordPress с lighttpd, MariaD![Uploading Screen Shot 2021-12-03 at 3.20.28 PM.png…]()
-B и PHP.
+Установить сайт на WordPress с lighttpd, MariaDB и PHP.
 
 <img width="1351" alt="Screen Shot 2021-12-03 at 3 36 00 PM" src="https://user-images.githubusercontent.com/93081927/144604251-4be193c8-b0a0-42e8-83bb-516014e0cd83.png">
 
