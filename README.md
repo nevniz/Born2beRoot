@@ -57,7 +57,7 @@
 
 Настроить скрипт мониторинга системы.
 -
-При запуске системы, скрипт [monitoring.sh](https://github.com/nevniz/Born2beRoot/blob/main/monitoring.sh) должен каждые 10 минут отображать информацию о системе. Для этого используется cron.
+При запуске системы, скрипт [monitoring.sh](https://github.com/nevniz/Born2beRoot/blob/main/monitoring.sh) должен каждые 10 минут отображать информацию о системе. Для установки расписания используется cron.
 
 <img width="949" alt="Screen Shot 2021-12-03 at 3 40 20 PM" src="https://user-images.githubusercontent.com/93081927/144604188-6289b3e2-89e5-4877-9b08-8b88b353ed5a.png">
 
