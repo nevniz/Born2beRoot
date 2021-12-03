@@ -177,7 +177,7 @@
     
 3. Добавить пользователя в файле `/etc/sudoers` после `%sudo ALL=(ALL:ALL) ALL`.
     
-    ![Screen Shot 2021-12-01 at 9.23.33 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f12203ed-1e0d-49d1-ab92-22dff1d12d70/Screen_Shot_2021-12-01_at_9.23.33_PM.png)
+    <img width="872" alt="Screen_Shot_2021-12-01_at_9 23 33_PM" src="https://user-images.githubusercontent.com/93081927/144614247-ed21af9f-1df3-4eac-bed2-1d976079427d.png">
     
 4. Перезагрузить виртуальную машину.
 5. Показать пример команды с помощью sudo.
