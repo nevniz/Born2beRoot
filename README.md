@@ -3,10 +3,8 @@
 
 Полное описание задания:
 [en.subject.pdf](https://github.com/nevniz/Born2beRoot/files/7649626/en.subject.pdf)
-
-Нужно было запустить сервер на операционной системе Debian или CentOS с определёнными настройками с помощью виртуальной машины. Я выбрал Debian и опишу основные моменты из документа. В качестве бонусов нужно установить базу данных, дополнительный сервис для сервера и запустить сайт на WordPress. Запрещено устанавливать графическую оболочку.
-
-Содержание: [разделы](https://github.com/nevniz/Born2beRoot#%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8B-%D0%B4%D0%B8%D1%81%D0%BA%D0%B0) диска, [SSH](https://github.com/nevniz/Born2beRoot#%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-ssh), [UFW](https://github.com/nevniz/Born2beRoot#%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-ufw), [имя](https://github.com/nevniz/Born2beRoot#%D0%B8%D0%BC%D1%8F-%D1%85%D0%BE%D1%81%D1%82%D0%B0-%D0%B8-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0%D0%BC%D0%B8) хоста и пользователя, работа с группами, [политика](https://github.com/nevniz/Born2beRoot#%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D1%83-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%B5%D0%B9) паролей, [sudo](https://github.com/nevniz/Born2beRoot#%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-sudo), [скрипт](https://github.com/nevniz/Born2beRoot#%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82-%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B0-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B), [бонусы](https://github.com/nevniz/Born2beRoot#%D0%B1%D0%BE%D0%BD%D1%83%D1%81%D0%BD%D0%B0%D1%8F-%D1%87%D0%B0%D1%81%D1%82%D1%8C) с сайтом.
+-
+В учебном проекте нужно было запустить сервер на операционной системе Debian или CentOS с определёнными настройками с помощью виртуальной машины. Я выбрал Debian. Здесь опишу основные моменты из задания. В качестве бонусов нужно установить базу данных, дополнительный сервис для сервера и запустить сайт на WordPress. Запрещено устанавливать графическую оболочку.
 
 # Настроить разделы диска.
 
