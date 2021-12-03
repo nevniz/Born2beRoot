@@ -5,6 +5,7 @@
 
 Полное описание задания:
 [en.subject.pdf](https://github.com/nevniz/Born2beRoot/files/7649626/en.subject.pdf)
+
 Для защиты проекта я составил чек-лист в Notion. Туда я записал определения и команды, которые нужны при защите. Доступно по [ссылке](https://invented-hook-b80.notion.site/287f7c7bcdba46c1a2dde774c49dab4b).
 
 Настроить разделы диска.
